@@ -5,6 +5,6 @@
 
   # SYSUSELab's Website
 
-  Visit **[sysuselab.github.io/sysuselab](https://sysuselab.github.io/sysuselab)** 🚀
+  Visit **[sysuselab.github.io](https://sysuselab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
