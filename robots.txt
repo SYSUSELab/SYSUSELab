@@ -1,1 +1,1 @@
-Sitemap: https://sysuselab.github.io/SYSUSELab/sitemap.xml
+Sitemap: https://sysuselab.github.io/sitemap.xml
