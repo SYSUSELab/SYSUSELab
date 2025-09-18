@@ -3,7 +3,7 @@
 
 # SYSUSELab's Website
 
-中山大学智能化软件研发实验室
+中山大学智能化软件研发实验室（加入一些介绍比较好）
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-🫡这是我们的高光点.
+需要讲讲研究亮点，左侧找个研究代表。
 
 {%
   include button.html
@@ -59,12 +59,12 @@ TrustedGPT 是一个专注于大模型可信性评测的平台，旨在评估大
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+介绍我们的团队，左侧需要一张合照
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="结识我们的团队"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +76,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="我们的团队"
   text=text
 %}
