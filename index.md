@@ -3,7 +3,7 @@
 
 # SYSUSELab's Website
 
-An engaging 1-3 sentence description of your lab.
+中山大学智能化软件研发实验室
 
 {% include section.html %}
 
