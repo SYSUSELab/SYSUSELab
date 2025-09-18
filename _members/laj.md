@@ -2,7 +2,7 @@
 name: 李安吉
 image: images/laj.jpg
 role: 硕士研究生
-affiliation: 中山大学
+affiliation: 硕士研究生
 aliases:
   - Anji Li
 links:
