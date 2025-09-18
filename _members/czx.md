@@ -2,26 +2,19 @@
 ---
 name: 陈镇熙
 image: images/czx.jpg
-role: PhD Student
+role: phd
 description: 25级硕士研究生
 affiliation: 中山大学
 aliases:
   - Zhenxi Chen
 links:
-  home-page: https://scholar.google.com/citations?hl=en&user=thmeudEAAAAJ
-  github: https://github.com/LeeAnnJ
-  orcid: 0009-0001-4881-4148
-  email: lianj8@mail2.sysu.edu.cn
+  home-page: https://scholar.google.com/citations?user=I856JRcAAAAJ&hl=en
+  email: zxchen0228@163.com
 ---
 
 ## 个人简介：
-我是中山大学大学软件工程学院 2024 级研究生，正在申请硕博连读。本科就读于中山大学软件工程学院。目前在智能化软件开发实验室实验室参与科研工作，导师是刘名威副教授。
-## 个人背景
-- 祖籍安徽，出生于吉林，在天津长大，目前常住广东珠海
-- 我的业余爱好：古筝，业余九级，传统民乐和现代音乐改编均可接受，DGFAC调都弹过，欢迎交流，以及期待一次音乐厅演出机会 ♥○♥♫♪
-## 科研经历
-我的研究兴趣主要集中在**智能化软件测试与维护**，包括测试代码数据集构建、测试代码自动生成、代码维护、代码大模型微调、领域知识与大模型结合等等。
-本科期间参与过知识驱动的智能化软件工程相关的研究工作，毕设课题为众包知识增强的类型推断，这些经历为我后续的科研探索奠定了基础。
+我是广东东莞人，中山大学软件工程学院2025级硕士生，本科就读于深圳大学软件工程（腾班），以第一作者发表Feature Selection相关的CCF-B类期刊论文1篇，通过推荐免试进入中山大学，目前在智能化软件开发实验室实验室参与科研工作，研究方向是基于LLM的代码缺陷定位，导师是刘名威副教授。业余爱好：篮球、健身、KTV、吃饭探店。  
 我的学术成果如下：  
-[1] Anji Li, Neng Zhang, Ying Zou, Zhixiang Chen, Jian Wang, Zibin Zheng, "CKTyper: Enhancing Type Inference for Java Code Snippets by Leveraging Crowdsourcing Knowledge in Stack Overflow", FSE 2025.  
+[1] Zhenxi Chen, Gong Chen, Can Gao, Jie Zhou, Jiajun Wen, "Robust weighted fuzzy margin-based feature selection with three-way decision, International Journal of Approximate Reasoning", 2024, 173: 109253. (JCR Q2, CCF B类, 中科院大类三区, IF: 3.9)  
 [2] Anji Li, Mingwei Liu, Zhenxi Chen, Zheng Pei, Zike Li, Dekun Dai, Yanlin Wang, Zibin Zheng, "KTester: Injecting Project and Testing Knowledge into LLM-based Unit Test Generation", Arxiv.  
+[3]Can Gao, Zhenxi Chen, Chengze Li, Jie Zhou, Weiping Ding, Witold Pedrycz, "Robust Feature Selection Based on Fuzzy Granule Margin and Hypothesis Testing".(Submitted to TFS,中科院1区, JCR Q1,CCF B,IF: 11.9)  
