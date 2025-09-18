@@ -1,7 +1,7 @@
 ---
 name: 李安吉
 image: images/laj.jpg
-role: 硕士研究生
+role: PhD Student
 affiliation: 硕士研究生
 aliases:
   - Anji Li
