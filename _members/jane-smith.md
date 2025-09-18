@@ -7,7 +7,7 @@ aliases:
   - Anji Li
 links:
   home-page: https://scholar.google.com/citations?hl=en&user=thmeudEAAAAJ
-  Github: https://github.com/LeeAnnJ
+  github: https://github.com/LeeAnnJ
   orcid: 0009-0001-4881-4148
   email: lianj8@mail2.sysu.edu.cn
 ---
