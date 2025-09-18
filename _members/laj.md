@@ -2,12 +2,12 @@
 name: 李安吉
 image: images/laj.jpg
 role: 硕士研究生
-affiliation: 中山大学
+affiliation: 硕士研究生
 aliases:
   - Anji Li
 links:
   home-page: https://scholar.google.com/citations?hl=en&user=thmeudEAAAAJ
-  Github: https://github.com/LeeAnnJ
+  github: https://github.com/LeeAnnJ
   orcid: 0009-0001-4881-4148
   email: lianj8@mail2.sysu.edu.cn
 ---
@@ -20,6 +20,6 @@ links:
 ## 科研经历
 我的研究兴趣主要集中在**智能化软件测试与维护**，包括测试代码数据集构建、测试代码自动生成、代码维护、代码大模型微调、领域知识与大模型结合等等。
 本科期间参与过知识驱动的智能化软件工程相关的研究工作，毕设课题为众包知识增强的类型推断，这些经历为我后续的科研探索奠定了基础。
-我的学术成果如下：
-#### [1] Anji Li, Neng Zhang, Ying Zou, Zhixiang Chen, Jian Wang, Zibin Zheng, "CKTyper: Enhancing Type Inference for Java Code Snippets by Leveraging Crowdsourcing Knowledge in Stack Overflow", FSE 2025.
-#### [2] Anji Li, Mingwei Liu, Zhenxi Chen, Zheng Pei, Zike Li, Dekun Dai, Yanlin Wang, Zibin Zheng, "KTester: Injecting Project and Testing Knowledge into LLM-based Unit Test Generation", Arxiv.
+我的学术成果如下：  
+[1] Anji Li, Neng Zhang, Ying Zou, Zhixiang Chen, Jian Wang, Zibin Zheng, "CKTyper: Enhancing Type Inference for Java Code Snippets by Leveraging Crowdsourcing Knowledge in Stack Overflow", FSE 2025.  
+[2] Anji Li, Mingwei Liu, Zhenxi Chen, Zheng Pei, Zike Li, Dekun Dai, Yanlin Wang, Zibin Zheng, "KTester: Injecting Project and Testing Knowledge into LLM-based Unit Test Generation", Arxiv.  
