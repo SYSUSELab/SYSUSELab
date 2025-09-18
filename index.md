@@ -39,7 +39,7 @@ TrustedGPT 是一个专注于大模型可信性评测的平台，旨在评估大
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="浏览我们的项目🔗"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
