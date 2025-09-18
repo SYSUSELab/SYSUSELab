@@ -16,7 +16,7 @@
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="浏览我们的出版物📕"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -64,7 +64,7 @@ TrustedGPT 是一个专注于大模型可信性评测的平台，旨在评估大
 {%
   include button.html
   link="team"
-  text="结识我们的团队"
+  text="结识我们的团队🫡"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
