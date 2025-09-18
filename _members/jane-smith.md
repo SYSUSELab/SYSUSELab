@@ -6,10 +6,10 @@ affiliation: 中山大学
 aliases:
   - Anji Li
 links:
-  Google Scholar: https://scholar.google.com/citations?hl=en&user=thmeudEAAAAJ
+  home-page: https://scholar.google.com/citations?hl=en&user=thmeudEAAAAJ
   Github: https://github.com/LeeAnnJ
   orcid: 0009-0001-4881-4148
-  联系方式: lianj8@mail2.sysu.edu.cn
+  email: lianj8@mail2.sysu.edu.cn
 ---
 
 ## 个人简介：
