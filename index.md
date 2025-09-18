@@ -28,7 +28,7 @@
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="我们的研究"
   text=text
 %}
 
