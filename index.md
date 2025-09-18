@@ -7,7 +7,7 @@
 
 {% include section.html %}
 
-## Highlights
+## 重点
 
 {% capture text %}
 
