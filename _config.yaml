@@ -71,3 +71,7 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+# 默认颜色为黑色
+header-dark: false
+footer-dark: false
