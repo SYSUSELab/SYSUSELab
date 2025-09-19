@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: 项目
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: 我们研发的软件，工具等
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}项目
