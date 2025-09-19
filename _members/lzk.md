@@ -2,7 +2,7 @@
 name: 李梓柯
 image: images/photo.jpg
 role: phd
-description: 25级博士研究生
+description: 23级博士研究生
 affiliation: 中山大学
 aliases:
   - Zike Li
