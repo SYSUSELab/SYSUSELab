@@ -30,7 +30,7 @@
   
   description: "本文提出了 K3Trans 模型，一种利用三重知识增强的大语言模型，用于在代码仓库上下文中进行代码翻译。" # 你可以自己写一段简短的描述
   
-  image: "images/K3Trans-thumbnail.jpg" # 强烈建议！请在这里放一张论文缩略图的路径或URL。你可以从论文中截取一张关键图。
+  image: "images/1280X1280.PNG" # 强烈建议！请在这里放一张论文缩略图的路径或URL。你可以从论文中截取一张关键图。
   
   buttons:
     - type: website # 按钮类型
