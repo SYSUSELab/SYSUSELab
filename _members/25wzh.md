@@ -1,6 +1,6 @@
 ---
 name: 王子豪
-image: images/photo.jpg
+image: images/member3.jpg
 role: phd
 description: 25级硕士研究生
 affiliation: 中山大学
