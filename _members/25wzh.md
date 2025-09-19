@@ -1,11 +1,11 @@
 ---
-name: 李安吉
+name: 王子豪
 image: images/photo.jpg
 role: phd
-description: 24级硕士研究生
+description: 25级硕士研究生
 affiliation: 中山大学
 aliases:
-  - Anji Li
+  - Zihao Wang
 links:
   home-page: https://scholar.google.com/citations?hl=en&user=thmeudEAAAAJ
   github: https://github.com/LeeAnnJ
