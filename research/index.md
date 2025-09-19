@@ -13,7 +13,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Enhancing LLM-based Code Translation in Repository Context via Triple Knowledge-Augmented" style="rich" %}
 
 {% include section.html %}
 
