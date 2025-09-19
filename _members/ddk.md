@@ -1,5 +1,5 @@
 ---
-name: 李安吉
+name: 代德锟
 image: images/photo.jpg
 role: phd
 description: 24级硕士研究生
