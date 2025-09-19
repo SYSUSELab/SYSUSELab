@@ -1,7 +1,7 @@
 ---
 name: 刘名威
 image: images/lmw.jpg
-role: phd
+role: principal-investigator
 description: 副教授
 affiliation: 中山大学
 aliases:
