@@ -1,6 +1,6 @@
 ---
 name: 代德锟
-image: images/photo.jpg
+image: images/member2.jpg
 role: phd
 description: 24级硕士研究生
 affiliation: 中山大学
