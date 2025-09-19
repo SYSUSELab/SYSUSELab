@@ -5,10 +5,9 @@ role: phd
 description: 25级硕士研究生
 affiliation: 中山大学
 aliases:
-  - Anji Li
+  - Zheng Pei
 links:
   home-page: https://boyqaq.github.io/
-  github: https://github.com/LeeAnnJ
   orcid: 0009-0001-4881-4148
   email: zhengpei516@gmail.com
 ---
