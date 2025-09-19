@@ -5,12 +5,13 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}项目
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+这里是我们团队的项目展示！这里汇集了近几年来我们精心打造的多个亮点项目🌟。这些项目不仅生动有趣、内容充实，还与当前前沿技术紧密结合，大多是我们研究成果的可视化呈现与创新实践。
 
-{% include tags.html tags="publication, resource, website" %}
+欢迎您深入了解，一同感受技术带来的可能与惊喜！
+
+{% include tags.html tags="出版物, 资源, 网站" %}
 
 {% include search-info.html %}
 
