@@ -21,3 +21,26 @@
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+
+- id: arxiv:2503.18305  # 这是最重要的部分，程序会用这个ID自动抓取标题、作者、日期、摘要等信息
+  type: paper          # 来源类型，会显示一个论文图标
+  
+  # --- 下面是可选的“丰富信息”，用来美化展示 ---
+  
+  description: "本文提出了 K3Trans 模型，一种利用三重知识增强的大语言模型，用于在代码仓库上下文中进行代码翻译。" # 你可以自己写一段简短的描述
+  
+  image: "images/K3Trans-thumbnail.jpg" # 强烈建议！请在这里放一张论文缩略图的路径或URL。你可以从论文中截取一张关键图。
+  
+  buttons:
+    - type: website # 按钮类型
+      text: "Arxiv Page" # 按钮上显示的文字
+      link: "https://arxiv.org/abs/2503.18305" # 按钮链接
+    - type: source # 另一个按钮
+      text: "Code (Coming Soon)" # 代码链接暂时没有，可以先这样写
+      # link: "" # 链接留空或不写，按钮可能无法点击
+
+  tags: # 标签，来自你提供的关键词
+    - Code Translation
+    - Knowledge-Driven
+    - Self-Evolving
