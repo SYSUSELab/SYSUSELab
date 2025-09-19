@@ -38,8 +38,6 @@ nav:
   link="https://www.google.com/maps"
 %}
 
-{% include section.html %}
-
 {% capture col1 %}
 
 {%
@@ -61,7 +59,5 @@ nav:
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
