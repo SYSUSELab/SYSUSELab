@@ -44,3 +44,108 @@
     - Code Translation
     - Knowledge-Driven
     - Self-Evolving
+
+- id: arxiv:2508.13003  # 核心！使用 Arxiv ID 自动抓取论文元数据
+  type: paper          # 类型为论文
+  
+  # --- 可选的补充信息，用于优化展示效果 ---
+  
+  description: "本文介绍了 EvolMathEval，一个通过演化测试（Evolutionary Testing）为大模型的数学推理能力构建可演化基准测试的方法。" # 简短描述
+  
+  image: "images/EvolMathEval-thumbnail.jpg" # 论文缩略图的路径，请务必找一张论文里的关键图片替换此处
+  
+  buttons:
+    - type: website # 按钮类型
+      text: "Arxiv Page" # 按钮文字
+      link: "https://arxiv.org/abs/2508.13003" # 论文链接
+    - type: source # 按钮类型
+      text: "Code & Dataset" # 按钮文字
+      link: "https://github.com/SYSUSELab/EvolMathEval" # 代码链接
+
+  tags: # 标签/关键词
+    - Math Benchmark
+    - Evolutionary Testing
+
+# ... 文件中已有的2025年论文 ...
+
+# ------------------------------------------------------------------
+# 论文: FeedbackEval (自动模式)
+- id: arxiv:2504.06939  # Arxiv ID，用于自动抓取核心信息
+  type: paper
+  description: "本文提出了 FeedbackEval，一个用于在反馈驱动的代码修复场景下评估大型语言模型的基准测试。"
+  image: "images/FeedbackEval-thumbnail.jpg" # 请替换为论文缩略图路径
+  buttons:
+    - type: website
+      text: "Arxiv Page"
+      link: "https://arxiv.org/abs/2504.06939"
+    - type: source
+      text: "Code & Dataset"
+      link: "https://github.com/SYSUSELab/FeedbackEval"
+  tags:
+    - Feedback-driven Code Repair
+    - Large Language Models
+    - Benchmark
+
+# ------------------------------------------------------------------
+# 论文: KTester (手动模式 - 因为没有 Arxiv ID)
+# 注意：由于没有 id，我们需要手动提供 title 和 authors 等核心信息
+- title: "KTester: Injecting Project and Testing Knowledge into LLM-based Unit Test Generation"
+  authors:
+    - Anji Li
+    - Mingwei Liu
+    - Zhenxi Chen
+    - Zheng Pei
+    - Zike Li
+    - Dekun Dai
+    - Yanlin Wang
+    - Zibin Zheng
+  date: '2025-01-01' # 这是一个占位符日期，请在发布后更新
+  type: paper
+  description: "本文介绍了 KTester，一种将项目和测试知识注入到基于大语言模型的单元测试生成中的方法。"
+  image: "images/KTester-thumbnail.jpg" # 请替换为论文缩略图路径
+  buttons:
+    - type: website
+      text: "Paper (Coming Soon)"
+    - type: source
+      text: "Code (Coming Soon)"
+  tags:
+    - Test Generation
+    - Unit Testing
+    - Large Language Models
+
+
+# ------------------------------------------------------------------
+# 论文: Repository-level Code Translation Benchmark Targeting Rust (自动模式)
+- id: arxiv:2411.13990
+  type: paper
+  description: "本文提出了一个针对 Rust 语言的仓库级代码翻译基准测试，关注增量翻译和仓库级上下文。"
+  image: "images/RustRepoTrans-thumbnail.jpg" # 请替换为论文缩略图路径
+  buttons:
+    - type: website
+      text: "Arxiv Page"
+      link: "https://arxiv.org/abs/2411.13990"
+    - type: source
+      text: "Code & Dataset"
+      link: "https://github.com/SYSUSELab/RustRepoTrans/"
+  tags:
+    - Code Translation
+    - LLM Evaluation
+    - Incremental Translation
+    - Repository-level Context
+
+# ------------------------------------------------------------------
+# 论文: Are Decoder-Only Large Language Models the Silver Bullet for Code Search? (自动模式)
+- id: arxiv:2410.22240
+  type: paper
+  description: "本文探讨了仅解码器（Decoder-Only）架构的大语言模型在代码搜索任务中的有效性及其是否为终极解决方案。"
+  image: "images/CodeSearchLLM-thumbnail.jpg" # 请替换为论文缩略图路径
+  buttons:
+    - type: website
+      text: "Arxiv Page"
+      link: "https://arxiv.org/abs/2410.22240"
+    - type: source
+      text: "Code (Not Available)"
+  tags:
+    - Code Search
+    - Decoder-only LLM
+    - Fine-tuning
