@@ -22,7 +22,6 @@ nav:
 
 欢迎对以上研究方向感兴趣的同学通过邮件与我联系！期待你的加入！
 
-邮箱：liumw26@mail.sysu.edu.cn
 地址：中国广东省珠海市香洲区 中山大学珠海校区 软件工程学院
 
 {%
@@ -38,25 +37,6 @@ nav:
   link="https://www.google.com/maps"
 %}
 
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
