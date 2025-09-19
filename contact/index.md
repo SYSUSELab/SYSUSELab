@@ -28,8 +28,8 @@ nav:
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="liumw26@mail.sysu.edu.cn"
+  link="liumw26@mail.sysu.edu.cn"
 %}
 {%
   include button.html
