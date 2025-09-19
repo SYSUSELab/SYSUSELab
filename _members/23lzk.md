@@ -1,6 +1,6 @@
 ---
 name: 李梓柯
-image: images/photo.jpg
+image: images/member1.jpg
 role: phd
 description: 23级博士研究生
 affiliation: 中山大学
