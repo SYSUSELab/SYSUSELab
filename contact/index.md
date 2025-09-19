@@ -5,11 +5,25 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}联系我们 CONTACT
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## 招生信息：
+每年招收**2-3名推免/统考硕士研究生**和**1-2名博士研究生**，并为优秀硕士生提供硕转博的衔接培养机会。课题组主要研究方向包括：
+- 软件工程（SE）
+- 大规模语言模型（LLM）
+- 知识图谱（KG）
+- 上述领域的交叉研究
+
+## 课题组优势：
+**丰富的学术资源：**提供海内外学术交流与访问机会，助力学术成长；
+**紧密的产学研合作：**与华为、腾讯、阿里、蚂蚁等企业保持长期项目合作与交流；
+**优质的职业发展支持：**为表现优异的本科生和研究生推荐国内外顶尖互联网公司的实习与工作机会。
+**本科生科研支持：**欢迎有志于学术研究、希望早日接触科研工作并发表高质量论文的本科生加入课题组！
+
+欢迎对以上研究方向感兴趣的同学通过邮件与我联系！期待你的加入！
+
+邮箱：liumw26@mail.sysu.edu.cn
+地址：中国广东省珠海市香洲区 中山大学珠海校区 软件工程学院
 
 {%
   include button.html
