@@ -63,7 +63,7 @@ TrustedGPT 是一个专注于大模型可信性评测的平台，旨在评估大
 
 {% capture text %}
 
-介绍我们的团队，左侧需要一张合照
+这是我们充满活力的研究团队！每位成员都对大模型与软件工程领域怀有深厚的兴趣与饱满的热情。目前团队包括4位博士研究生与6位硕士研究生。我们始终开放交流，非常欢迎与您展开合作与讨论！
 
 {%
   include button.html
@@ -78,7 +78,7 @@ TrustedGPT 是一个专注于大模型可信性评测的平台，旨在评估大
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/团建1.jpg"
   link="team"
   title="我们的团队"
   text=text
