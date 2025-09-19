@@ -20,7 +20,7 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/团建1.jpg" %}
 
 {% endcapture %}
 
