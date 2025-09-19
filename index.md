@@ -13,7 +13,9 @@
 
 {% capture text %}
 
-需要讲讲研究亮点，左侧找个研究代表。
+我们的研究核心在于将大型语言模型（LLM）的强大能力与软件工程（SE）的严谨方法相结合，致力于解决智能软件开发中的前沿挑战。
+
+我们的工作主要分为两大支柱：**AI赋能软件工程 (AI4SE)** 和 **软件工程赋能AI (SE4AI)**。在AI4SE方面，我们专注于研究基于大模型的代码生成、翻译与自动修复，旨在革新软件开发范式，提升全生命周期的自动化水平。在SE4AI方面，我们则聚焦于大模型的可信性，通过构建如代码、数学等领域的演化式评测基准（Evolvable Benchmarks），系统性地评估和提升AI系统的可靠性与安全性。
 
 {%
   include button.html
@@ -28,7 +30,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research-highlight.jpg"
   link="research"
   title="我们的研究"
   text=text
