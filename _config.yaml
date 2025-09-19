@@ -73,5 +73,5 @@ exclude:
   - CITATION.cff
 
 # 默认颜色为黑色
-header-dark: false
-footer-dark: false
+# header-dark: false
+# footer-dark: false
