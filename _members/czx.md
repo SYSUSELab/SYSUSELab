@@ -1,4 +1,3 @@
-
 ---
 name: 陈镇熙
 image: images/czx.jpg
@@ -17,4 +16,3 @@ links:
 我的学术成果如下：  
 [1] Zhenxi Chen, Gong Chen, Can Gao, Jie Zhou, Jiajun Wen, "Robust weighted fuzzy margin-based feature selection with three-way decision, International Journal of Approximate Reasoning", 2024, 173: 109253. (JCR Q2, CCF B类, 中科院大类三区, IF: 3.9)  
 [2] Anji Li, Mingwei Liu, Zhenxi Chen, Zheng Pei, Zike Li, Dekun Dai, Yanlin Wang, Zibin Zheng, "KTester: Injecting Project and Testing Knowledge into LLM-based Unit Test Generation", Arxiv.  
-[3]Can Gao, Zhenxi Chen, Chengze Li, Jie Zhou, Weiping Ding, Witold Pedrycz, "Robust Feature Selection Based on Fuzzy Granule Margin and Hypothesis Testing".(Submitted to TFS,中科院1区, JCR Q1,CCF B,IF: 11.9)  
