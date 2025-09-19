@@ -1,5 +1,5 @@
 ---
-name: 李安吉
+name: 欧广盛
 image: images/ogs.jpg
 role: phd
 description: 22级博士研究生
