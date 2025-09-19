@@ -15,8 +15,10 @@ nav:
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
-
+我们的团队在陆续开展一些有意思的团建活动...
 {% include section.html %}
+
+
 
 {% capture content %}
 
