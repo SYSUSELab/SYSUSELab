@@ -1,8 +1,8 @@
 ---
-name: 李安吉
+name: 张泽凯
 image: images/zzk.jpg
 role: phd
-description: 24级硕士研究生
+description: 22级博士研究生
 affiliation: 中山大学
 aliases:
   - Anji Li
