@@ -1,6 +1,6 @@
 - title: TrustedGPT
   subtitle: 大模型可信性评测平台
-  image: images/trustedgpt.jpg
+  image: images/trustedgpt.png
   link: https://trustedgpt.pro/home
   description: TrustedGPT 是一个专注于大模型可信性评测的平台，旨在评估大模型在通用领域以及垂直领域的可信能力。 平台支持包括 ChatGPT、Qwen、智谱AI 和 Gemini 等主流大模型，通过多维度评测体系，从可靠性、安全性、公平性等方面进行全面评估。 通过不断更新的评测数据和标准，TrustedGPT 致力于推动生成式人工智能技术的安全、可靠应用。
   tags:
