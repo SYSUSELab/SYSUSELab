@@ -17,8 +17,12 @@ nav:
 
 {% include section.html %}
 
-## Featured
+<!-- ## Featured -->
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+<!-- {% include list.html component="card" data="projects" filter="group == 'featured'" %} -->
+
+## ALL
+
+{% include list.html component="card" data="projects" %}
 
 {% include section.html %}

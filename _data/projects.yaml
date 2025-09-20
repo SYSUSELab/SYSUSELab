@@ -1,47 +1,56 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: TrustedGPT
+  subtitle: 大模型可信性评测平台
+  image: images/trustedgpt.jpg
+  link: https://trustedgpt.pro/home
+  description: TrustedGPT 是一个专注于大模型可信性评测的平台，旨在评估大模型在通用领域以及垂直领域的可信能力。 平台支持包括 ChatGPT、Qwen、智谱AI 和 Gemini 等主流大模型，通过多维度评测体系，从可靠性、安全性、公平性等方面进行全面评估。 通过不断更新的评测数据和标准，TrustedGPT 致力于推动生成式人工智能技术的安全、可靠应用。
   tags:
-    - resource
+    - 网站
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+# - title: Cool Dataset
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+# - title: Cool Package
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+# - title: Cool Tutorial
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+#     - publication
+
+# - title: Cool Web App
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+
+# - title: Cool Web Server
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
